@@ -1,0 +1,14 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "axios": "0.21.1",
+    "material-table": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "5.2.0"
+  }
+}

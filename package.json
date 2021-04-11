@@ -1,0 +1,23 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "axios": "0.21.1",
+    "material-table": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "5.2.0"
+  },
+  "name": "material-demo-forked",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/tables/MaterialTableDemo.js",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
